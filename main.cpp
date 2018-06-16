@@ -10,6 +10,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <errno.h>
+#define STB_IMAGE_IMPLEMENTATION
 #include "stb/stb_image.h"
 
 
